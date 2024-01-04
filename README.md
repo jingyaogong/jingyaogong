@@ -6,3 +6,5 @@
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Asp.Net**, **Spring**, **Gin** (winform aslo :) ) and etc.
+
+![](https://hit.yhype.me/github/profile?user_id=48148011)
