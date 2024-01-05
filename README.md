@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/jingyaogong/count.svg)
+Visitor: ![Visitor Count](https://profile-counter.glitch.me/jingyaogong/count.svg)
 # About Me
 
 "立于皓月之边，不弱星光之势"  
@@ -7,6 +7,3 @@
 - I have basic knowledge of some mainstream systems, such as Redis, Mysql, RabbitMQ, ELK, K8S, etc. 
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Asp.Net**, **Spring**, **Gin** (winform aslo :) ) and etc.
-
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=jingyaogong&theme=dracula)
