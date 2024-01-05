@@ -7,4 +7,4 @@
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Asp.Net**, **Spring**, **Gin** (winform aslo :) ) and etc.
 
-![](https://hit.yhype.me/github/profile?user_id=48148011)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jingyaogong.jingyaogong&left_color=green&right_color=red)
