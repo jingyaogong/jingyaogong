@@ -8,4 +8,4 @@
 - I have basic knowledge of programing pattern, loving design the architecture of the system.  
 - I know some frameworks, such as **Asp.Net**, **Spring**, **Gin** (winform aslo :) ) and etc.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyaogong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyaogong&show_icons=true&theme=merko)
