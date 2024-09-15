@@ -13,9 +13,9 @@ My research focuses on low-level vision, large language models, and generative d
 
 I am passionate about all emerging technologies.
 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyaogong&show_icons=true&theme=merko)
-
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jingyaogong/jingyaogong/output/github-contribution-grid-snake-dark.svg">
