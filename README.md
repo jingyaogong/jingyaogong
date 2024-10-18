@@ -5,8 +5,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/jingyaogong/count.svg)
 
 
-「立于皓月之边，不弱星光之势」
-
 I am pursuing a Master's degree in Artificial Intelligence.
 
 My research focuses on low-level vision, Generative models (including NLP, CV, MultiModal).
