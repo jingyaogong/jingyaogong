@@ -2,8 +2,6 @@
 
 <div align="center">
 
-My research focuses on low-level vision, Generative models (including NLP, CV, MultiModal).
-
 ✨ **Goal is Self-Consistent AI** ✨
 
 <!--
